@@ -31,7 +31,7 @@
 
 6. This will prompt you to **choose and answer a security question**. Save the answer to the security question in the text file with the login and password.
 
-7. **Enter the captcha and click “Register”**
+7. **Enter the captcha and click “Register.”**
 
 8. On a new Tor Browser tab, **go to** [**https://localcoinswap.com/register/**](https://localcoinswap.com/register/).  
 _This is a P2P crypto marketplace. The benefit of this P2P marketplace over others is that is two-fold. First, most P2P marketpalces, like localbitcoin.com, require phone verification when registering — we are trying to avoid this. Second, most other P2P marketplaces do not have the cash-by-mail options anymore as it goes against their KYC (Know Your Customer) policies._
@@ -44,13 +44,13 @@ _This is a P2P crypto marketplace. The benefit of this P2P marketplace over othe
 
 11. **Save the username and password in the text file you crated earlier**.
 
-12. **Click “Register”**.
+12. **Click “Register.”**
 
 13. **Complete the Google reCAPTCHA**.
 
 14. If you encounter an error with the captcha, as shown below, you need to **click the “New Identity” button**. It is pointed to with the red arrow in the picture below. You will get a prompt which will ask you to confirm that you want to restart the Tor Browser. Click “Yes”.
 
-Now **repeat step 9 to step 14 til you get through**. It typically takes between 5 and 10 tries to get an identity which works with Google reCAPTCHA, but it may take more. Be patient, put on a YouTube video in the background, copy and paste from the text file, and you will eventually get through.
+Now **repeat step 9 to step 14 till you get through**. It typically takes between 5 and 10 tries to get an identity which works with Google reCAPTCHA, but it may take more. Be patient, put on a YouTube video in the background, copy and paste from the text file, and you will eventually get through.
 
 ![IMG4](IMGS/4.png)
 
@@ -58,7 +58,7 @@ Now **repeat step 9 to step 14 til you get through**. It typically takes between
 
 16. **Open the verification email** you received from LocalCoinSwap.com. If its not in your Inbox, make sure to check the Spam and Subscriptions folders.
 
-17. **Click “Verify Email!”**.
+17. **Click “Verify Email!”**
 
 ![IMG5](IMGS/5.png)
 
