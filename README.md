@@ -56,7 +56,7 @@ Now **repeat step 9 to step 14 till you get through**. It typically takes betwee
 
 15. Once you have successfully created an account, **go back to** [**https://mail.yandex.com/**](https://mail.yandex.com/) **and enter your login information for the account you created earlier.**
 
-16. **Open the verification email** you received from LocalCoinSwap.com. If its not in your Inbox, make sure to check the Spam and Subscriptions folders.
+16. **Open the verification email** you received from LocalCoinSwap.com. If it is not in your Inbox, make sure to check the Spam and Subscriptions folders.
 
 17. **Click “Verify Email!”**
 
@@ -66,7 +66,7 @@ Now **repeat step 9 to step 14 till you get through**. It typically takes betwee
 
 ![IMG6](IMGS/6.png)
 
-19. You will likely once again encounter the Google reCAPTCHA error as shown below. Once again **click the “New Identity” button (shown with the red arrow below) and repeat step 15 to 19 til you get through**.
+19. You will likely once again encounter the Google reCAPTCHA error as shown below. Once again **click the “New Identity” button (shown with the red arrow below) and repeat step 15 to 19 till you get through**.
 
 ![IMG7](IMGS/7.png)
 
