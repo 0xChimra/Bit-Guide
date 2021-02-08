@@ -9,7 +9,7 @@
 
 * **This guide will only help you if you don't plan to convert the bitcoin back to normal cash due it being only meant being for a one way system where you only buy stuff with the bitcoin. If you convert it back to normal cash, agencies and the government can track payments back to you!**
 
-
+------------------------------------------
 
 
 1.  **Download the Tor Browser** from [https://www.torproject.org/download/](https://www.torproject.org/download/).
