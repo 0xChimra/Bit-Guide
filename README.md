@@ -1,7 +1,13 @@
 
 ![IMG](IMGS/tor_coin.png)
 
-# A guide on how to purchase bitcoin 100% anonymously without ID
+# A guide on how to purchase bitcoin anonymously without ID
+
+## ⚠️ Important ⚠️ :
+
+* **There always is a chance you can get scammed by using this method, keep that in mind!**
+
+* **This guide will only help you if you don't plan to convert the bitcoin back to normal cash due it being only meant being for a one way system where you only buy stuff with the bitcoin. If you convert it back to normal cash, agencies and the government can track payments back to you!**
 
 1.  **Download the Tor Browser** from [https://www.torproject.org/download/](https://www.torproject.org/download/).
 2.  **Open the Tor Browser and go to Yandex Mail**, which is at [https://mail.yandex.com/](https://mail.yandex.com/).  
