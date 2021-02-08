@@ -9,9 +9,14 @@
 
 * **This guide will only help you if you don't plan to convert the bitcoin back to normal cash due it being only meant being for a one way system where you only buy stuff with the bitcoin. If you convert it back to normal cash, agencies and the government can track payments back to you!**
 
-**1.**  **Download the Tor Browser** from [https://www.torproject.org/download/](https://www.torproject.org/download/).
+
+
+
+1.  **Download the Tor Browser** from [https://www.torproject.org/download/](https://www.torproject.org/download/).
+
 2.  **Open the Tor Browser and go to Yandex Mail**, which is at [https://mail.yandex.com/](https://mail.yandex.com/).  
     _Yandex is the Russian Google and Yandex Mail is the Russian Gmail. We can’t use Gmail or Outlook.com because they will require phone verification and will block us from logging in if we are entering from a different IP than the one we registered on. On the other side, we cannot use temporary email services, like_ [_guerrillamail.com_](https://www.guerrillamail.com/)_, as websites often do not allow those email addresses to be used when registering._
+
 3.  **Click “Create an account”.**
 
 
