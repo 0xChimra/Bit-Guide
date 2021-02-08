@@ -1,4 +1,8 @@
 
+![IMG](IMGS/tor_coin.png)
+
+# A guide on how to purchase bitcoin 100% anonymously without ID
+
 1.  **Download the Tor Browser** from [https://www.torproject.org/download/](https://www.torproject.org/download/).
 2.  **Open the Tor Browser and go to Yandex Mail**, which is at [https://mail.yandex.com/](https://mail.yandex.com/).  
     _Yandex is the Russian Google and Yandex Mail is the Russian Gmail. We can’t use Gmail or Outlook.com because they will require phone verification and will block us from logging in if we are entering from a different IP than the one we registered on. On the other side, we cannot use temporary email services, like_ [_guerrillamail.com_](https://www.guerrillamail.com/)_, as websites often do not allow those email addresses to be used when registering._
@@ -16,7 +20,7 @@
 
 6. This will prompt you to **choose and answer a security question**. Save the answer to the security question in the text file with the login and password.
 
-7. **Enter the captcha and click “Reigster”**
+7. **Enter the captcha and click “Register”**
 
 8. On a new Tor Browser tab, **go to** [**https://localcoinswap.com/register/**](https://localcoinswap.com/register/).  
 _This is a P2P crypto marketplace. The benefit of this P2P marketplace over others is that is two-fold. First, most P2P marketpalces, like localbitcoin.com, require phone verification when registering — we are trying to avoid this. Second, most other P2P marketplaces do not have the cash-by-mail options anymore as it goes against their KYC (Know Your Customer) policies._
