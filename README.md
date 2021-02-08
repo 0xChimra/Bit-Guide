@@ -21,13 +21,13 @@
 
 
 
-![IMG](IMGS/1.png)
+![IMG1](IMGS/1.png)
 
 4. **Enter a name, login, and password** — making sure that the name and login cannot be traced back to your real identity. Copy the login and password to a text file and save it — you will need this later.
 
 5. On the last question it asks for a mobile number. Do not enter a mobile number. Instead **click “I don’t have a mobile phone”**.
 
-![IMG](IMGS/2.png)
+![IMG2](IMGS/2.png)
 
 6. This will prompt you to **choose and answer a security question**. Save the answer to the security question in the text file with the login and password.
 
@@ -38,7 +38,7 @@ _This is a P2P crypto marketplace. The benefit of this P2P marketplace over othe
 
 9. **In the email field, enter the email address you created earlier**. This will be in the format [login]@yandex.ru.
 
-![IMG](IMGS/3.png)
+![IMG3](IMGS/3.png)
 
 10. **Enter the other details** as you choose. Make sure they cannot be connected back to your real identity.
 
@@ -52,7 +52,7 @@ _This is a P2P crypto marketplace. The benefit of this P2P marketplace over othe
 
 Now **repeat step 9 to step 14 til you get through**. It typically takes between 5 and 10 tries to get an identity which works with Google reCAPTCHA, but it may take more. Be patient, put on a YouTube video in the background, copy and paste from the text file, and you will eventually get through.
 
-![IMG](IMGS/4.png)
+![IMG4](IMGS/4.png)
 
 15. Once you have successfully created an account, **go back to** [**https://mail.yandex.com/**](https://mail.yandex.com/) **and enter your login information for the account you created earlier.**
 
@@ -60,31 +60,31 @@ Now **repeat step 9 to step 14 til you get through**. It typically takes between
 
 17. **Click “Verify Email!”**.
 
-![IMG](IMGS/5.png)
+![IMG5](IMGS/5.png)
 
 18. That will take you to the login page on LocalCoinSwap.com. **Enter your email address and then your password and click “Sign In”**.
 
-![IMG](IMGS/6.png)
+![IMG6](IMGS/6.png)
 
 19. You will likely once again encounter the Google reCAPTCHA error as shown below. Once again **click the “New Identity” button (shown with the red arrow below) and repeat step 15 to 19 til you get through**.
 
-![IMG](IMGS/7.png)
+![IMG7](IMGS/7.png)
 
 You will know that you have gotten through the screen below.
 
-![IMG](IMGS/8.png)
+![IMG8](IMGS/8.png)
 
 20. **Go back to your Yandex email**, find the new email which asks you to approve your login. Then **click “Approve Login!”**.
 
-![IMG](IMGS/9.png)
+![IMG9](IMGS/9.png)
 
 Now when you go back to the tab which asked you to check your email, you should see the following screen. Congratulations you have registered successfully!
 
-![IMG](IMGS/10.png)
+![IMG10](IMGS/10.png)
 
 21. **Go to** [**https://localcoinswap.com/en/buy/crypto/worldwide/cash-by-mail**](https://localcoinswap.com/en/buy/crypto/worldwide/cash-by-mail)
 
-![IMG](IMGS/11.png)
+![IMG11](IMGS/11.png)
 
 All these people are selling bitcoin for cash-in-mail. This means put cash in an envelope then send it to the address they give you and in return you get bitcoin.
 
@@ -92,11 +92,11 @@ All these people are selling bitcoin for cash-in-mail. This means put cash in an
 
 For example, the seller below requires you to text them. This will reveal your identity, hence don’t buy from sellers such as this.
 
-![IMG](IMGS/12.png)
+![IMG12](IMGS/12.png)
 
 Below is an example of a good seller. They don’t ask your for identifying information.
 
-![IMG](IMGS/13.png)
+![IMG13](IMGS/13.png)
 
 23. Once you find a seller who will protect your anonymity, **open a trade with them and follow their instructions**.
 
